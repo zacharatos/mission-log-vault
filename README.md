@@ -154,6 +154,6 @@ Based on your choices (SQLite, API-key header, interactive REPL, UI in v2, Docke
 
 * **Write README** with:
 
-  * Project overview & theme tie-in
+  * Project overview and theme tie-in
   * Setup, build, run, test, Docker instructions
 * **Run end-to-end** via `docker-compose up`
